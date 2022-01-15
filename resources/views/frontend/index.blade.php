@@ -60,6 +60,53 @@
         </div>
     </div>
 </section> -->
+
+<section class="blog-content-section ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="blog-posts">
+                    <div class="blog-single-post wow fadeInUp">
+                        <div class="blog-content-part">
+                            <div class="blog-title">
+                                <h4><a href="#">Chinese version</a></h4>
+                            </div>
+                        </div>
+                        <div class="blog-thumbnail-video">
+                            <a href="#"><img src="{{ asset('theme/assets/images/intro-cn_Moment.jpg') }}" alt="thumbnail"></a>
+                            <div class="video-play-button">
+                                <a href="{{ asset('theme/assets/images/videos/intro-cn.mp4') }}" class="button-video">
+                                    <i class="fa fa-play item-ripple"></i>
+                                </a>
+                            </div>
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="blog-posts">
+                    <div class="blog-single-post wow fadeInUp">
+                        <div class="blog-content-part">
+                            <div class="blog-title">
+                                <h4><a href="#">English version</a></h4>
+                            </div>
+                        </div>
+                        <div class="blog-thumbnail-video">
+                            <a href="#"><img src="{{ asset('theme/assets/images/intro-cn_Moment.jpg') }}" alt="thumbnail"></a>
+                            <div class="video-play-button">
+                                <a href="{{ asset('theme/assets/images/videos/intro-en.mp4') }}" class="button-video">
+                                    <i class="fa fa-play item-ripple"></i>
+                                </a>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- features section -->
 <section class="features-section padding-bottom-90 padding-top-120">
     <div class="container position-relative">
