@@ -75,7 +75,7 @@
                         <div class="blog-thumbnail-video">
                             <a href="#"><img src="{{ asset('theme/assets/images/intro-cn_Moment.jpg') }}" alt="thumbnail"></a>
                             <div class="video-play-button">
-                                <a href="{{ asset('theme/assets/images/videos/intro-cn.mp4') }}" class="button-video">
+                                <a href="{{ asset('theme/assets/images/intro-cn.mp4') }}" class="button-video">
                                     <i class="fa fa-play item-ripple"></i>
                                 </a>
                             </div>
@@ -95,7 +95,7 @@
                         <div class="blog-thumbnail-video">
                             <a href="#"><img src="{{ asset('theme/assets/images/intro-cn_Moment.jpg') }}" alt="thumbnail"></a>
                             <div class="video-play-button">
-                                <a href="{{ asset('theme/assets/images/videos/intro-en.mp4') }}" class="button-video">
+                                <a href="{{ asset('theme/assets/images/intro-en.mp4') }}" class="button-video">
                                     <i class="fa fa-play item-ripple"></i>
                                 </a>
                             </div>
